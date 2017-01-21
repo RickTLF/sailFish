@@ -22,5 +22,7 @@ public class MainActivityFragment extends Fragment {
                              Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_main, container, false);
     }
-/*I, GreySyringe, am responsible for fragments!!*/
+/*I, GreySyringe, am responsible for fragments!!
+
+These are my new comments. Please use branch.*/
 }
